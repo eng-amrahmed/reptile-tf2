@@ -5,7 +5,7 @@ A TensorFlow 2.0 with eager execution implementation of Pytorch OpenAI few-shot 
 ### Dependencies
 This code requires the following:
 
-- python 3.*
+- Python 3.5.2+
 - TensorFlow 2.0.0-beta0
 
 ### References
