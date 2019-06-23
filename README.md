@@ -1,5 +1,5 @@
 ## Reptile
-A TensorFlow with eager execution implementation of Pytorch OpenAI few-shot regression example
+A TensorFlow 2.0 with eager execution implementation of Pytorch OpenAI few-shot regression example
 - The task is to predicting a random sine wave from 10 (x, y)(x,y) pairs
 
 ## References
