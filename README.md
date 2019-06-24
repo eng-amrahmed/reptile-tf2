@@ -1,7 +1,7 @@
 ### Reptile
-Reptile is a simple meta-learning(learning how to learn) optimization algorithm similar to the amazing [MAML](https://arxiv.org/abs/1703.03400) algorithm which i recommend to read it.
-Both of MAML and Reptile are **model-agnostic** so they work with any model that learns through gradient descent
-Reptile is more comutational efficient than MAML algorithm that require to calculate the second derivative
+Reptile is a simple meta-learning(learning how to learn) optimization algorithm similar to the amazing [MAML](https://arxiv.org/abs/1703.03400) algorithm which i recommend to read the [MAML](https://arxiv.org/abs/1703.03400) paper.
+Both of MAML and Reptile are **model-agnostic** so they work with any model that learns through gradient descent.
+Reptile is more simple and comutational efficient than MAML algorithm.
 
 How does it works ?
 
