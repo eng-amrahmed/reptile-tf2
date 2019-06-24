@@ -5,7 +5,7 @@ Reptile is more comutational efficient than MAML algorithm that require to calcu
 
 How does it works ?
 
-![Algorithm](https://github.com/eng-amrahmed/reptile-tf2/tree/master/images/algorithm.jpg)
+![Algorithm](https://github.com/eng-amrahmed/reptile-tf2/tree/master/images/algorithm.png)
 
 
 ### Dependencies
